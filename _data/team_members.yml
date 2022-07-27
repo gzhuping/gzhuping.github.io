@@ -7,6 +7,14 @@
 #   education2: 2019 &nbsp;&nbsp; Postdoc, Dana-Farber Cancer Institute and  Harvard School of Public Health
 #   education3: 2019 &nbsp;&nbsp; Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences
   
+- name: YYZ
+  photo: YYZ.png
+  info: Research Assistant /Lab manager
+  email: 
+  number_educ: 2
+  education1: 2, South China Agricultural University 
+  education2: 2012 B.S., Qiqihar University
+
 - name: Rui Liu
   photo: RuiLiu.jpg
   info: Research Assistant /Lab manager
