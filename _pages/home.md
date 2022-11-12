@@ -38,10 +38,10 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig4.gif" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig5.gif" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig5.gif" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig6.gif" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig6.gif" alt="Slide 6" />
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
