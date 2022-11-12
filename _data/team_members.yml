@@ -1,12 +1,3 @@
-# - name: Shengbao Suo
-#   photo: ShengbaoSuo.jpg
-#   info: Principal Investigator
-#   email: XX@XX
-#   number_educ: 3
-#   education1: 2021 &nbsp;&nbsp; Postdoc, Dana-Farber Cancer Institute and Harvard Medical School
-#   education2: 2019 &nbsp;&nbsp; Postdoc, Dana-Farber Cancer Institute and  Harvard School of Public Health
-#   education3: 2019 &nbsp;&nbsp; Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences
-  
 - name: Rui Liu
   photo: RuiLiu.jpg
   info: Research Assistant /Lab manager
@@ -80,7 +71,7 @@
 
 - name: "This could be you !"
   photo: unknown.png
-  info: See <a href="https://suoshengbao.github.io/positions">Positions</a> for more info.
+  info: See <a href="https://gzhuping.github.io/positions">Positions</a> for more info.
   email: 
   number_educ: 0
   education1:  
