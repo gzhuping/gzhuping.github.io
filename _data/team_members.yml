@@ -6,6 +6,99 @@
   education1: 2017-2020 M.D, Chinese Medicine Research Institute, Guangdong Pharmaceutical University
   education2: 2013-2017 Bachelor, School of Chemical and Environmental Engineering，Guangdong Ocean University
 
+- name: Diling Chen
+  photo:	Diling Chen.jpg
+  info: Associate Investigator
+  email:
+  number_educ: 2
+  education1: 2012-2014 Postdoctoral Fellow, South China Normal University
+  education2: 2007-2012 M.D, Chinese Medicine College, Guangzhou University of Chinese Medicine
+  education3: 2003-2007 Bachelor, School of Pharmacy, Hunan University of Chinese Medicine
+  
+- name: Sheng Liu
+  photo:	Sheng Liu.jpg
+  info: Associate Investigator
+  email: number_educ: 3
+  education1: 2012-2017 Ph.D, Materials Physics and Chemistry, School of Chemistry, Sun Yat-sen University
+  education2: 2008-2012 Bachelor, Materials Chemistry, School of Chemistry, Sun Yat-sen University
+  education3: 2007-2008 Forensic Medicine, Zhongshan School of Medicine, Sun Yat-sen University
+
+- name: Hualin Yi
+  photo:	Hualin Yi.jpg
+  info: Associate Investigator
+  email: 
+  number_educ: 3
+  education1: 2014-2016 Joint-Doctoral program, Wake Forest University
+  education2: 2009-2016 Ph.D, Biochemistry and molecular biology, School of Life Sciences, Sun Yat-sen University
+  education3: 2004-2008 Bachelor, Biotechnology, South-Central University for Nationalities
+
+- name: Xiaofen Wu
+  photo:	Xiaofen Wu.png
+  info: Assistant Investigator
+  email: 
+  number_educ: 4
+  education1: 2020-2022 Postdoctoral Fellow, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
+  education2: 2013-2019 Ph.D, Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences
+  education3: 2015-2016 Visiting scholar, Bioinformatics, Baylor College of Medicine, US
+  education4: 2009-2013 Bachelor, Biotechnology, School of Life Science, Huazhong University of Science and Technology
+
+- name: Hongyang Liu
+  photo:	Hongyang Liu.png
+  info: Postdoctoral Fellow
+  email: 
+  number_educ: 2
+  education1: 2015-2021 Ph.D, Institute of Biophysics, Chinese Academy of Sciences
+  education2: 2001-2015 Bachelor, Biotechnology, School of Life Science, Beijing Institute of Technology
+
+- name: Ruimiao Ma
+  photo:	Ruimiao Ma.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 2
+  education1: 2016-2020 Master，Developmental Biology，Hunan Agricultural University
+  education2: 2012-2016 Bachelor，Biotechnology，Hunan Agricultural University
+
+- name: Feifei Xue
+  photo:	Feifei Xue.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 2	
+  education1: 2017-2018 Master, Stem Cell and Regenerative Medicine, Department of Biomedical Science, The University of Sheffield
+  education2: 2013-2017 Bachelor, Biotechnology, School of Life Science and Biotechnology, Dalian University of Technology
+
+- name: Xiaocui Tang
+  photo:	Xiaocui Tang.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 2
+  education1: 2005-2008 Master, Biochemistry and molecular biology,College of Life Sciences, South China Agricultural University
+  education2: 2001-2005 Bachelor,Biotechnology, College of life science and biotechnology, Heilongjiang Bayi Agricultural University
+
+- name: Ruqi Fan
+  photo:	Ruqi Fan.jpg
+  info: Research Assistant
+  email: 
+  number_educ: 3 	
+  education1: 2016-2020 Master, Preventive Veterinary Medicine, College of Veterinary Medicine, South China Agricultural University 
+  education2: 2019-2020 Visiting scholar, Veterinary Pathology, College of Veterinary Medicine, University of Georgia, USA
+  education3: 2012-2016 Bachelor, Animal Medicine,College of Animal Science and Technology,  Qingdao Agricultural University
+
+- name: Tao Yang
+  photo:	Tao Yang.jpg
+  info: intern 
+  email:
+  number_educ: 2
+  education1: 2020-present Master, Northeast Forestry University
+  education2: 2016-2020 Bachelor, Baoding University Biology
+
+- name: Hengzhen Li
+  photo:	Hengzhen Li.jpg
+  info: intern
+  email: 
+  number_educ: 2
+  education1: 2021-present Master, Xiangya Hospital, Central South University
+  education2: 2015-2020 Bachelor, Hengyang Medical School, University Of South China
+
 - name: "This could be you !"
   photo: unknown.png
   info: See <a href="https://gzhuping.github.io/positions">Positions</a> for more info.
