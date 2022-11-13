@@ -1,15 +1,55 @@
-- name: Yanping Lu
-  photo: YanpingLu.jpeg
-  info: Graduate student
+- name: Jiedan Bai
+  photo:	Jiedan Bai.jpg
+  info: student
   email: 
   number_educ: 2
-  education1: 2021-present Master candidate, Yunnan University
-  education2: 2017-2021 B.S., Qujing Normal University
+  education1: 2020-present Master, Biology and Medicine, Yunnan University
+  education2: 2016-2020 Bachelor, College of Life Sciences, Shanghai Normal University
 
-- name: Yumeng Yang
-  photo: YumengYang.jpeg
-  info: Graduate student
+- name: Yi Chen
+  photo:	
+  info: student
   email: 
   number_educ: 2
-  education1: 2021-present Master candidate, Yunnan University
-  education2: 2017-2021 B.S., Hainan University
+  education1: 2020-present Master，Biochemistry and molecular biology，Yunnan University
+  education2: 2016-2020 Bachelor，Bioengineering，Wuhan University of Bioengineering
+
+- name: Yunpeng Zhang
+  photo:	Yunpeng Zhang.jpg
+  info: student
+  email:
+  number_educ: 2
+  education1: 2019-present master, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences
+  education2: 2015-2019 Bachelor, College of Life Sciences, Northwest University
+
+- name: Ajun Li
+  photo:	Ajun Li.jpg
+  info: student
+  email: 
+  number_educ: 2
+  education1: 2015-2019 Bachelor, College of Life Sciences, Hunan，HengYang normal University
+  education2: 2021-present Master,Biochemistry and molecule biology, Yunnan University
+
+- name: Yuying Liu
+  photo:	Yuying Liu.jpg
+  info:student
+  email:
+  number_educ: 2
+  education1: 2021-present Master, Biology and Medicine, Yunnan University
+  education2: 2015-2019 Bechelor, Biotechnology, School of Life Science and Biotechnology, Northwest Minzu University
+
+- name: Hanhao Li
+  photo:	Hanhao Li.jpg
+  info: Student
+  email:
+  number_educ: 2
+  education1: 2018-2021 Master, College of pharmacy, Jinan University
+  education2: 2013-2017 Bachelor, College of pharmacy, Guangdong Pharmaceutical University
+
+- name: Weikang Zhang
+  photo:	Weikang Zhang.jpg
+  info: Student
+  email:
+  number_educ: 2
+  education1: 2019-2022 Master, Taizhou Hospital of Zhejiang Province, Wenzhou Medical University
+  education2: 2014-2019 Bachelor, First Clinical Medical College, Wenzhou Medical University
