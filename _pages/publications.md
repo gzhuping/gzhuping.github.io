@@ -1,7 +1,7 @@
 ---
-title: "SuoLab - Publications"
+title: "HuLab - Publications"
 layout: gridlay
-excerpt: "SuoLab -- Publications."
+excerpt: "HuLab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
