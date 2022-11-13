@@ -1,7 +1,7 @@
 ---
-title: "SuoLab - Contact"
+title: "HuLab - Contact"
 layout: piclay
-excerpt: "SuoLab -- Contact"
+excerpt: "HuLab -- Contact"
 permalink: /pictures/
 ---
 
