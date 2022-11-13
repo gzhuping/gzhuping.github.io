@@ -1,5 +1,5 @@
 ---
-title: "SuoLab - Allnews"
+title: "HuLab - Allnews"
 layout: allnews
 excerpt: "allnews"
 sitemap: false
