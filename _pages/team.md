@@ -60,7 +60,7 @@ permalink: /team/
 </div>
 {% endfor %}
 
-<!-- ### Graduate Students  -->
+<!-- ### Graduate Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -99,7 +99,7 @@ permalink: /team/
   </ul>
 </div>
   
-<!--
+
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -113,7 +113,7 @@ permalink: /team/
 </div>
 {% endif %}
  -->
-
+    
 <!-- ## Alumni
 <table align="center" style="width:100%">
 <tr><th>Visitors</th>
