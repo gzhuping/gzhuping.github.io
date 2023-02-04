@@ -19,9 +19,9 @@ permalink: /team/
 <h5><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ping Hu<strong></h5>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Principal Investigator</i></p>
 <ul style="list-style-type:square; overflow: hidden">
-<li>1998-2003&nbsp;&nbsp;State University of New York, Stony Brook/Cold Spring Harbor Laboratory</li>
-<!-- <li>2017-2019&nbsp;&nbsp;Postdoc, Dana-Farber Cancer Institute and Harvard School of Public Health</li> -->
-<!-- <li>2013-2017&nbsp;&nbsp;Ph. D., CAS-MPG Partner Institute for Computational Biology, Chinese Academy of Sciences</li> -->
+<li>1998-2003 Ph.D, State University of New York, Stony Brook/Cold Spring Harbor Laboratory</li>
+<li> 1995-1998 M.D, School of Life Sciences, Peking University</li>
+<li>1990.1995 Bachelor, School of Life Sciences, Peking University</li>
 </ul>
 </div>
 </div>
