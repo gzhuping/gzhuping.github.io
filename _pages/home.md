@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<!-- <p>We are a young research group at the [Bioland Laboratory](https://www.grmh-gdl.cn) in the Max-Planck Center for Tissue Stem Cell Research and Regenerative Medicine.</p> -->
+<!-- <p>We are a research group at the [Bioland Laboratory](https://www.grmh-gdl.cn) in the Max-Planck Center for Tissue Stem Cell Research and Regenerative Medicine.</p> -->
 <p>We are a young research group at the Guangzhou Laboratory. If you are interested in working with us, please see more information on <a href="https://gzhuping.github.io/positions">Positions</a>. </p>
 <p>Age-related muscle atrophy (sarcopenia) is the leading cause for disability in aged population, but the underlying molecular mechanisms are poorly understood. Here we identify a novel role for the secreted glycoprotein Dickkopf 3 (Dkk3) in sarcopenia. Forced expression of Dkk3 in muscles in young mice leads to muscle atrophy. Conversely, reducing its expression in old muscles restores both muscle size and function. Dkk3 induces nuclear import of β-catenin and enhances its interaction with FoxO3, which in turn activates the transcription of E3 ubiquitin ligase Fbxo32 and Trim63, driving muscle atrophy. These findings suggest that Dkk3 may be used as diagnostic marker and as therapeutic target for age-related muscle atrophy, and reveal a distinct transcriptional control of Fbxo32 and Trim63.</p>
  
