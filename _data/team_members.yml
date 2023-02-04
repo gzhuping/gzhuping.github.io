@@ -1,10 +1,10 @@
-- name: Yuzhen Ye
-  photo: Yuzhen Ye.jpg
+- name: Xiaocui Tang
+  photo:	Xiaocui Tang.jpg
   info: Research Assistant /Lab manager
   email: 
   number_educ: 2
-  education1: 2017-2020 M.D, Chinese Medicine Research Institute, Guangdong Pharmaceutical University
-  education2: 2013-2017 Bachelor, School of Chemical and Environmental Engineering，Guangdong Ocean University
+  education1: 2005-2008 Master, Biochemistry and molecular biology,College of Life Sciences, South China Agricultural University
+  education2: 2001-2005 Bachelor,Biotechnology, College of life science and biotechnology, Heilongjiang Bayi Agricultural University
 
 - name: Diling Chen
   photo:	Diling Chen.jpg
@@ -66,14 +66,6 @@
   number_educ: 2	
   education1: 2017-2018 Master, Stem Cell and Regenerative Medicine, Department of Biomedical Science, The University of Sheffield
   education2: 2013-2017 Bachelor, Biotechnology, School of Life Science and Biotechnology, Dalian University of Technology
-
-- name: Xiaocui Tang
-  photo:	Xiaocui Tang.jpg
-  info: Research Assistant
-  email: 
-  number_educ: 2
-  education1: 2005-2008 Master, Biochemistry and molecular biology,College of Life Sciences, South China Agricultural University
-  education2: 2001-2005 Bachelor,Biotechnology, College of life science and biotechnology, Heilongjiang Bayi Agricultural University
 
 - name: Ruqi Fan
   photo:	Ruqi Fan.jpg
