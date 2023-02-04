@@ -8,15 +8,15 @@
     display: Bone Res 2022, 10(1)
   highlight: 1
   
-- title: Molecular pathways of colon inflammation induced by cancer immunotherapy
+- title: Dkk3 dependent transcriptional regulation controls age related skeletal muscle atrophy
   image: colitis.png
   description: 
-    Checkpoint blockade with antibodies specific for the PD-1 and CTLA-4 inhibitory receptors can induce durable responses in a wide range of human cancers. However, the immunological mechanisms responsible for severe inflammatory side effects remain poorly understood. Here we report a comprehensive single-cell analysis of immune cell populations in colitis, a common and severe side effect of checkpoint blockade. We observed a striking accumulation of CD8 T cells with highly cytotoxic and proliferative states and no evidence of regulatory T cell depletion. T cell receptor (TCR) sequence analysis demonstrated that a substantial fraction of colitis-associated CD8 T cells originated from tissue-resident populations, explaining the frequently early onset of colitis symptoms following treatment initiation. Our analysis also identified cytokines, chemokines, and surface receptors that could serve as therapeutic targets for colitis and potentially other inflammatory side effects of checkpoint blockade.
+    Age-related muscle atrophy (sarcopenia) is the leading cause for disability in aged population, but the underlying molecular mechanisms are poorly understood. Here we identify a novel role for the secreted glycoprotein Dickkopf 3 (Dkk3) in sarcopenia. Forced expression of Dkk3 in muscles in young mice leads to muscle atrophy. Conversely, reducing its expression in old muscles restores both muscle size and function. Dkk3 induces nuclear import of β-catenin and enhances its interaction with FoxO3, which in turn activates the transcription of E3 ubiquitin ligase Fbxo32 and Trim63, driving muscle atrophy. These fifindings suggest that Dkk3 may be used as diagnostic marker and as therapeutic target for age-related muscle atrophy, and reveal a distinct transcriptional control of Fbxo32 and Trim63.
   authors:
-    Adrienne M. Luoma^; **Shengbao Suo**^; Hannah L. Williams; Tatyana Sharova; Keri Sullivan; Michael Manos; Peter Bowling; F. Stephen Hodi; Osama Rahma; Ryan J. Sullivan; Genevieve M. Boland; Jonathan A. Nowak; Stephanie K. Dougan; Michael Dougan#; Guo-Cheng Yuan; Kai W. Wucherpfennig#
+    Yin J., Yang L., Xie Y., Liu Y., Li S., Yang W., Xu B., Ji H., Ding L., Wang K., Li G., Chen L., **Hu Ping**.
   link:
-    url: https://doi.org/10.1016/j.cell.2020.06.001
-    display: Cell, 2020, 182(3):655-671
+    url: https://doi.org/10.1016/j.tma.2018.08.001
+    display: Translational Medicine of Aging 2018, 2
   highlight: 1
 
 - title: Molecular architecture of lineage allocation and tissue organization in early mouse embryo
