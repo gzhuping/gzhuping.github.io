@@ -1,11 +1,11 @@
-- title: Msi2-mediated MiR7a-1 processing repression promotes myogenesis. J Cachexia Sarcopenia Muscle
+- title: Msi2-mediated MiR7a-1 processing repression promotes myogenesis
   description: 
     <b>Background</b> Most of the microRNAs (MiRs) involved in myogenesis are transcriptional regulated. The role of MiR bio genesis in myogenesis has not been characterized yet. RNA-binding protein Musashi 2 (Msi2) is considered to be one of the major drivers for oncogenesis and stem cell proliferation. The functions of Msi2 in myogenesis have not been explored yet. We sought to investigate Msi2-regulated biogenesis of MiRs in myogenesis and muscle stem cell (MuSC) ageing. <br><b>Methods</b> We detected the expression of Msi2 in MuSCs and differentiated myotubes by quantitative reverse transcription PCR (RT-qPCR) and western blot. Msi2-binding partner human antigen R (HuR) was identifified by immunoprecip itation followed by mass spectrometry analysis. The cooperative binding of Msi2 and HuR on MiR7a-1 was analysed by RNA immunoprecipitation and electrophoresis mobility shift assays. The inhibition of the processing of pri-MiR7a-1 me diated by Msi2 and HuR was shown by Msi2 and HuR knockdown. Immunoflfluorescent staining, RT-qPCR and immunoblotting were used to characterize the function of MiR7a-1 in myogenesis. Msi2 and HuR up-regulate cryptochrome circadian regulator 2 (Cry2) via MiR7a-1 was confifirmed by the luciferase assay and western blot. The post-transcriptional regulatory cascade was further confifirmed by RNAi and overexpressing of Msi2 and HuR in MuSCs, and the in vivo function was characterized by histopathological and molecular biological methods in Msi2 knockout mice. <br><b>Results</b> We identifified a post-transcription regulatory cascade governed by a pair of RNA-binding proteins Msi2 and HuR. Msi2 is enriched in differentiated muscle cells and promotes MuSC differentiation despite its pro-proliferation functions in other cell types. Msi2 works synergistically with another RNA-binding protein HuR to repress the biogenesis of MiR7a-1 in an Msi2 dose-dependent manner to regulate the translation of the key component of the circadian core oscillator complex Cry2. Down-regulation of Cry2 (0.6-fold, vs. control, P < 0.05) mediated by MiR7a-1 represses MuSC differentiation. The disruption of this cascade leads to differentiation defects of MuSCs. In aged muscles, Msi2 (0.3-fold, vs. control, P < 0.01) expression declined, and the Cry2 protein level also decreases (0.5-fold, vs. control, P < 0.05), suggesting that the disruption of the Msi2-mediated post-transcriptional regulatory cascade could attribute to the declined ability of muscle regeneration in aged skeletal muscle. <br><b>Conclusions</b> Our fifindings have identifified a new post-transcriptional cascade regulating myogenesis. The cascade is disrupted in skeletal muscle ageing, which leads to declined muscle regeneration ability. 
   authors:
     Wenjun Yang , Lele Yang, Jianhua Wang , Yuanyuan Zhang , Sheng Li , Qi Yin , Jinlong Suo , Ruimiao Ma, Yuzhen Ye, Hong Cheng , Jinsong Li, Jingyi Hui & <b>Ping Hu</b>
   link: 
-    url: https://doi.org/10.1038/s41413-022-00202-3
-    display: Bone Res 2022, 10(1)
+    url: https://doi.org/10.1002/jcsm.12882
+    display: J Cachexia Sarcopenia Muscle 2022, 13(1)
   highlight: 1
   
 - title: Dkk3 dependent transcriptional regulation controls age related skeletal muscle atrophy
@@ -14,8 +14,8 @@
   authors:
     Yin J., Yang L., Xie Y., Liu Y., Li S., Yang W., Xu B., Ji H., Ding L., Wang K., Li G., Chen L., <b>Hu Ping</b>.
   link:
-    url: https://doi.org/10.1016/j.tma.2018.08.001
-    display: Translational Medicine of Aging 2018, 2
+    url: https://doi.org/10.1038/s41467-018-04038-6
+    display: Nat Commun 2018, 9(1)
   highlight: 1
 
 - title: Myogenesis controlled by a long non-coding RNA 1700113A16RIK and post-transcriptional regulation
@@ -34,8 +34,8 @@
   authors:
     Suo J., Zou S., Wang J., Han Y., Zhang L., Lv C., Jiang B., Ren Q., Chen L., Yang L., Ji P., Zheng X., <b>Hu Ping</b>., Zou W.
   link:
-    url: https://doi.org/10.1002/jcsm.12882
-    display: J Cachexia Sarcopenia Muscle 2022, 13(1)
+    url: https://doi.org/10.1038/s41413-022-00202-3
+    display: Bone Res 2022, 10(1)
   highlight: 0
 
 - title: Recent advances in tissue stem cells
@@ -76,8 +76,8 @@
   authors:
     Zhou S., Zhang W., Cai G., Ding Y., Wei C., Li S., Yang Y., Qin J., Liu D., Zhang H., Shao X., Wang J., Wang H., Yang W., Wang H., Chen S., <b>Hu Ping</b>., Sun L
   link:
-    url: https://doi.org/10.1038/s41418-020-0508-1
-    display: Cell Death Differ 2020, 27(8)
+    url: https://doi.org/10.1038/s41422-020-00393-6
+    display: Cell Res 2020, 30(12)
   highlight: 0
 
 - title: Dosage effect of multiple genes accounts for multisystem disorder of myotonic dystrophy type 1
@@ -116,8 +116,8 @@
   authors:
     Han Lili, Wu Si, <b>Hu Ping</b>
   link:
-    url: https://doi.org/10.1038/s41467-018-04038-6
-    display: Nat Commun 2018, 9(1)
+    url: https://doi.org/10.1016/j.tma.2018.08.001
+    display: Translational Medicine of Aging 2018, 2
   highlight: 0
 
 - title: Skeletal muscle regeneration is modulated by inflammation
@@ -136,15 +136,15 @@
   authors:
     Yang W., <b>Hu Ping</b>.
   link:
-    url: https://doi.org/10.1093/nar/gkx488
-    display: Nucleic Acids Res 2017, 45(15)
+    url: https://doi.org/10.1016/j.cellimm.2017.08.006
+    display: Cell Immunol 2018, 326
   highlight: 0
   
 - title: Characterization and isolation of highly purified porcine satellite cells
   description: 
     Background
   authors:
-    Ding S., Wang F., Liu Y., Li S., Zhou G., <b>Hu Ping*</b>.
+    Ding S., Wang F., Liu Y., Li S., Zhou G., <b>Hu Ping</b>.
   link:
     url: https://doi.org/10.1038/cddiscovery.2017.3
     display: Cell Death Discov 2017
@@ -157,7 +157,7 @@
     <b>Hu Ping</b>
   link:
     url: https://doi.org/10.21767/2573-5365.100009
-    display: Cellular & Molecular Medicine Open access 2015, 01
+    display: Cellular & Molecular Medicine 2015, 01
   highlight: 0
  
 - title: Combination of inflammation-related cytokines promotes long-term muscle stem cell expansion
@@ -176,8 +176,8 @@
   authors:
     Fu X., Wang H., <b>Hu Ping</b>
   link:
-    url: https://doi.org/10.1101/gad.2021411
-    display: Genes Dev 2011, 25(6)
+    url: https://doi.org/10.1007/s00018-014-1819-5
+    display: Cell Mol Life Sci 2015, 72(9)
   highlight: 0 
   
 - title: Codependent activators direct myoblast-specific MyoD transcription
@@ -196,8 +196,8 @@
   authors:
     Deato M. D., Marr M. T., Sottero T., Inouye C., <b>Hu Ping</b>., Tjian R
   link:
-    url: https://doi.org/10.1073/pnas.0801802105
-    display: Proc Natl Acad Sci U S A 2008, 105(18)
+    url: https://doi.org/10.1016/j.molcel.2008.09.009
+    display: Mol Cell 2008, 32(1)
   highlight: 0
  
 - title: RNA Polymerase III Transcription
