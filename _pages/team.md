@@ -21,7 +21,7 @@ permalink: /team/
 <ul style="list-style-type:square; overflow: hidden">
 <li>1998-2003 Ph.D, State University of New York, Stony Brook/Cold Spring Harbor Laboratory</li>
 <li> 1995-1998 M.D, School of Life Sciences, Peking University</li>
-<li>1990.1995 Bachelor, School of Life Sciences, Peking University</li>
+<li>1990-1995 Bachelor, School of Life Sciences, Peking University</li>
 </ul>
 </div>
 </div>
