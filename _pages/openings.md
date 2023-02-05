@@ -6,46 +6,48 @@ sitemap: false
 permalink: /positions
 ---
 
-## Open positions1
+<!-- ## Open positions1
 
 <p>**Our lab will mainly use computational and theoretical approaches combined with multi-omics high-throughput sequencing data, but also wet-lab experiments if needed, to systematically understand gene regulation, cell differentiation and spatial cell-cell interaction in single cells, with focus on questions in developmental, stem cell biology and immunology.** </p>
-<p>**We are always looking for creative, energetic and collaborative researchers to join our interdisciplinary team!**</p>
+<p>**We are always looking for creative, energetic and collaborative researchers to join our interdisciplinary team!**</p>  -->
 
 
-### Associate Investigator
-<p>The candidates should have a Ph.D. in computational biology/bioinformatics/computer science/statistics or other quantitative fields, as well as excellent programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.</p>
+### Postdoctoral fellow (Bioinformatics)
+#### Application requirements:
+<p>1. PhD in bioinformatics or biology-related majors, and be proficient in R language;</p>
 
-<p>Candidates with a Ph.D. degree in cell biology, molecular biology, immunology (etc.) with substantial experience and interest in quantitative fields/programming are also welcomed to apply.</p>
+<p>2. Experience with next-generation sequencing and single-cell sequencing analysis is preferred;</p>
 
-<p>The candidates would have ability to develop independent research programs/projects, and candidates with experience in postdoctoral training or research and strong record in research are strongly preferred.</p>
+<p>3. Good reading, writing and communication skills in Chinese and English, and experience with independent project application and management are preferred;</p>
 
-<p>The successful candidates will join a vibrant scientific environment devoted to basic science aiming at integrating research activities among partner institutes and conduct interdisciplinary research to address high-priority projects through the combination of complementary knowledge, methods and techniques.</p>
+<p>4. Published research papers in international journals;</p>
 
-<p>If you are interested in joining us, please send us an email along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate “Application Associate Investigator (Your name)” in the email subject.</p>
+#### Job Responsibilities:
+<p>1. Strong logicality and consecution, strong independent work ability, sense of responsibility, spirit of cooperation, and communication and coordination ability;</p>
 
-### Postdoc
-<p>The candidates will have (or about to have) a Ph.D. in computational biology/bioinformatics/computer science/statistics or other quantitative fields, as well as excellent programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.</p>
+<p>2. Possess a rigorous scientism, surefooted work style and good teamwork spirit;</p>
 
-<p>Candidates with a Ph.D. degree in cell biology, molecular biology, immunology (etc.) with substantial experience and interest in quantitative fields/programming are also welcomed to apply.</p>
+<p>3. Open-minded, strong learning ability, willing to learn and accept new things and new technologies</p>
 
-<p>The candidates would have ability to develop independent research programs/projects</p>
+### Postdoctoral fellow (Biology and Medicine)
+#### Application requirements:
+<p>1.PhD in Basic Medicine or biology; bachelor in chemistry, molecular biology, cell biology, developmental biology;</p>
 
-<p>The successful candidates will join a vibrant scientific environment devoted to basic science aiming at integrating research activities among partner institutes and conduct interdisciplinary research to address high-priority projects through the combination of complementary knowledge, methods and techniques.</p>
+<p>Experience with research on molecular biology, cell biology, or developmental biology, proficient in the experiments of biochemistry, cell biology, molecular biology and animals, mastering the skills of biochemistry, stem cells’ isolation and culture, and high-resolution image analysis is preferred;</p>
 
-<p>If you are interested in joining us, please send us an email along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate “Application Postdoc (Your name)” in the email subject.</p>
+<p>3. Good reading, writing and communication skills in Chinese and English, and experience with independent project application and management are preferred;</p>
 
-### Assistant Investigator
-<p>The candidates will have (or about to have) a Ph.D. in computational biology/bioinformatics/computer science/statistics or other quantitative fields, as well as great programming and communication skills. Substantial experience in analysis of high-throughput sequencing data is highly desirable.</p>
+<p>4. Published research papers in international journals;</p>
 
-<p>The successful candidates will join a vibrant scientific environment devoted to basic science aiming at integrating research activities among partner institutes and conduct interdisciplinary research to address high-priority projects through the combination of complementary knowledge, methods and techniques.</p>
+#### Job Responsibilities:
+<p>1. Strong logicality and consecution, strong independent work ability, sense of responsibility, spirit of cooperation, and communication and coordination ability;</p>
 
-<p>If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV. Please indicate “Application Assitent Investigator (Your name)” in the email subject.</p>
+<p>2. Possess a rigorous scientism, surefooted work style and good teamwork spirit;</p>
 
-### Research Assistant and Lab manager
-<p>The candidates would have a Bachlor/Master degree in biology and related areas, be familar with basic biology and capable of dealing with lab start-up affairs, candidates with programming background are strongly preferred.</p>
-<p>The candidates would have great communication skills and English writing skills.</p>
+<p>3. Open-minded, strong learning ability, willing to learn and accept new things and new technologies</p>
 
-<p>If you are interested in joining us, please send us an email along with a brief cover letter and a detailed CV . Please indicate “Application Research Assistant (Your name)” in the email subject.</p>
+
+<p>If you are interested in joining us, please send us an email along with a brief cover letter, a detailed CV and at least two recommendation letters. Please indicate”Postdoctoral fellow(Your name)”in the email subject.</p>
 
 <!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
