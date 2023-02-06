@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div >
- <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig1.png" alt="Slide 1" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/PingHu.jpg" alt="Slide 1" />
 </div>
 
 <p>**胡苹**</p>
@@ -66,11 +66,11 @@ permalink: /
 </p>
 
 <div>
- <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig1.png" alt="Slide 1" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/h1.jpg" alt="Slide 2" />
 </div>
 
 <div >
- <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/Fig2.png" alt="Slide 2" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/homepage/h2.jpg" alt="Slide 3" />
 </div>
 
 
