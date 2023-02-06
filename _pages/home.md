@@ -32,13 +32,36 @@ permalink: /
 <p><br>代表论著</br></p>
 <p>
 1.Asymmetrical Inactivation of ESR1 Signaling in Muscle Progenitor Cells Causes and its Reactivation Alleviates Progression of Adolescent Idiopathies Scoliosis. Xiexiang Shao#, Xin Fu#, Wenyuan Sui, Wenjun Yang, Xingzuan Lin, Zifang Huang, Sheng Li, Minzhi Jia, Huan Liu, Wei Liu, Lili Han, Yang Yu, Yaolong Deng, Tianyuan Zhang, Jingfan Yang, and Junlin Yang*, and Ping Hu*. Cell Discovery, 2023, Jan. 30. 
+</p>
+
+<p>
 2.Chemical reprogramming of melanocytes to skeletal muscle cells. Wenjun Yang*, Yaqi Wang*, Yuanyuan Du*, Jiyong Li, Sheng Li, Cheng Li, Hongkui Deng*, and Ping Hu*. Journal of Cachexia, Sarcopenia and Muscle. 2023, Jan.
+</p>
+
+<p>
 3.Msi2 mediated MiR7a-1 processing repression promotes myogenesis. Wenjun Yang, Lele Yang, Jianhua Wang, Lili Han, Sheng Li, Qi Yin，Ruimiao Ma, Jinsong Li, Jingyi Hui*, and Ping Hu*. Journal of Cachexia, Sarcopenia and Muscle. 2022 Feb;13(1):728-742.
+</p>
+
+<p>
 4.Myofiber necroptosis promotes muscle stem cell proliferation via releasing Tenascin-C during regeneration. Shen'ao Zhou, Wei Zhang, Caixia Wei, Sheng Li, Yu Yang, Jie Qin, Dan Liu, Hongye Wang, Wenjun Yang, Gaihong Cai, She Chen, Yingzhe Ding, Huating Wang, Xiexiang Shao, Jianhua Wang, Ping Hu*, and Liming Sun*. Cell Research, 2020 Dec;30(12):1063-1077. (Featured cover story) 
+</p>
+
+<p>
 5.Dosage effect of multiple genes accounts for multisystem disorder of myotonic dystrophy type 1. Qi Yin, Hongye Wang, Na Li, Yifu Ding, Zhenfei Xie, Lifang Jin, Yan Li,1 Qiong Wang, Xinyi Liu, Liuqing Xu, Yanbo Cheng, Kai Wang, Cuiqing Zhong, Qian Yu, Wei Tang, Wanjin Chen, Wenjun Yang, Fan Zhang, Chen Ding, Lan Bao,1 Bin Zhou, Ping Hu,* and Jinsong Li* Cell Research, 2020 Feb;30(2):133-145. （Featured cover story）
+</p>
+
+<p>
 6.Dual function of VGLL4 in muscle regeneration. Xue Feng, Zuoyun Wang, Fei Wang, Tiantian Lu, Jinjin Xu, Xueyan Ma, Jinhui Li, Lingli He, Wenxiang Zhang, Sheng Li, Wenjun Yang, Shu Zhang, Gaoxiang Ge, Yun Zhao, Ping Hu*, Lei Zhang*. EMBO J, 2019, 38: e101051.
+</p>
+<p>
 7.Dkk3 dependent transcriptional regulation controls ageing induced skeletal muscle atrophy. Jie Yin, Lele Yang, Yangli Xie, Yan Liu, Sheng Li, Wenjun Yang, Bo Xu, Hongbin Ji, Kun Wang, Gang Li, Lin Chen & Ping Hu*. Nature Communications. May. 1, 9(1):1752. 2018.
+ </p>
+ 
+<p>
 8.Combination of inflammation-related cytokines promotes long-term muscle stem cell expansion. Xin Fu, Jun Xiao, Yuning Wei, Sheng Li, Yan Liu, Kun Sun, Hao Sun, Huating Wang, Zongkang Max Zhang, Baoting Zhang, Chun Sheng, Hongyan Wang*, and Ping Hu*. Cell Research. 2015. Jun;25(6):655-73. cover story with preview）
+ </p>
+ 
+<p>
 9.Co-dependent Activators Direct Myoblast Specific MyoD Transcription. Ping Hu, Kenneth G. Geles, Ji-Hye Paik, Ronald A. DePinho, and Robert Tjian.  Developmental Cell, 2008, Oct; 15(4): 534-546. 
 </p>
 
