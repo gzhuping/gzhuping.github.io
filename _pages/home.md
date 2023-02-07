@@ -76,87 +76,8 @@ permalink: /
 <p style="text-align: left;"><span style="color: rgb(64, 169, 255); font-size: 19px;"><strong>实验室成员</strong></span></p>
 </div>
 
-<div id="english">
-<p style="text-align: left;"><span style="color: rgb(64, 169, 255); font-size: 22px;"><strong>Ping Hu, Ph.
-            D.</strong></span></p>
-<p><span style="color: rgb(51, 51, 51);">Professor of Guangzhou Laboratory, Doctoral supervisor</span></p>
-<p><span style="color: rgb(51, 51, 51);">E-mail：hu_ping@gzlab.ac.cn</span></p>
-<p><span style="font-family: 宋体;"> </span></p>
-<p style="text-align: left;"><span style="color: rgb(64, 169, 255); font-size: 19px;"><strong>Education and working
-            experiences</strong></span></p>
-<p style="text-indent: 24pt;">Dr. Ping Hu graduated from the Collage of Life Sciences, Peking University. She obtained
-    her Ph. D. degree from the joint graduate program of State University of New York, Stony Brook and Cold Spring
-    Harbor Laboratory. Dr. Hu performed her post-doctoral research in University of California, Berkey/Howard Hughes
-    Medical Institute. She worked as a principal investigator and professor in Institute of Biochemistry and Cell
-    Biology, Chinese Academy of Sciences from 2011 to 2021. Since 2021, Dr. Hu is a principal investigator and professor
-    in Guangzhou Laboratory. Dr. Hu is the member of Education Committee, International Society of Stem Cell Research
-    (ISSCR), Committee member of Chinese Society of Cell Biology, Cell therapy division. She also serves as editor for
-    Scientific Reports, Frontier of Developmental Biology. </p>
-<p> </p>
-<p style="text-align: left;"><span style="color: rgb(64, 169, 255); font-size: 19px;"><strong>Research
-            Interests</strong></span></p>
-<p style="text-indent: 24pt;">Dr. Hu’s group is focused on the study of adult stem cells and their roles in tissue
-    regeneration, homeostasis maintenance, and aging using skeletal muscle, epithelia tissues, and adipose as model
-    systems. Dr. Hu’s group has identified several new microenvironment components, especially inflammation and ECM
-    during regeneration to regulate the activity of adult stem cells. They have revealed the cell communications between
-    immune cells, mesenchymal cells, and stem cells. Dr. Hu’s group also revealed the functions stem cells and
-    circulating factors in aging. Further epigenetic circuits regulating stem cell fate determination and aging have
-    been identified. Dr. Hu’s group is interested in identifying new types of adult stem cells and further uncover the
-    epigenetic mechanism governing adult stem cell fate determination and aging. They are also exploring new
-    regenerative medicine techniques to slow down and reverse aging and treat degenerative disease. Great efforts have
-    been invested to establish the system for mass production of clinical grade stem cells and their quality controls
-    for clinical applications. </p>
-<p> </p>
-<p style="text-align: left;"><span
-        style="color: rgb(64, 169, 255); font-size: 19px;"><strong>Publications</strong></span></p>
-<p style="text-align: justify;"><span style="color: rgb(0, 0, 0);">1. Asymmetrical Inactivation of ESR1 Signaling in
-        Muscle Progenitor Cells Causes and its Reactivation Alleviates Progression of Adolescent Idiopathies Scoliosis.
-        Xiexiang Shao#, Xin Fu#, Wenyuan Sui, Wenjun Yang, Xingzuan Lin, Zifang Huang, Sheng Li, Minzhi Jia, Huan Liu,
-        Wei Liu, Lili Han, Yang Yu, Yaolong Deng, Tianyuan Zhang, Jingfan Yang, and Junlin Yang*, and
-    </span><strong>Ping Hu</strong><span style="color: rgb(0, 0, 0);">*</span><strong>. </strong><span
-        style="color: rgb(0, 0, 0);">Cell</span><strong> </strong>Discovery, 2023, Jan. 30. </p>
-<p style="text-align: justify;">2. Chemical reprogramming of melanocytes to skeletal muscle cells. Wenjun
-    Yang<strong>*</strong>, Yaqi Wang<strong>*</strong>, Yuanyuan Du<strong>*</strong>, Jiyong Li, Sheng Li, Cheng Li,
-    Hongkui Deng*, and <strong>Ping Hu</strong>*. Journal of Cachexia, Sarcopenia and Muscle.<span
-        style="color: rgb(91, 97, 107); background-color: rgb(255, 255, 255);"> </span>2023, Jan.</p>
-<p style="text-align: justify;"><span style="color: rgb(0, 0, 0);">3. Msi2 mediated MiR7a-1 processing repression
-        promotes myogenesis. Wenjun Yang, Lele Yang, Jianhua Wang, Lili Han, Sheng Li, Qi Yin，Ruimiao Ma, Jinsong Li,
-        Jingyi Hui*, and </span><strong>Ping Hu*</strong><span style="color: rgb(0, 0, 0);">. Journal of Cachexia,
-        Sarcopenia and Muscle. 2022 Feb;13(1):728-742.</span></p>
-<p style="text-align: justify;"><span style="color: rgb(0, 0, 0);">4. Muscle regeneration controlled by a designated DNA
-        dioxygenase. Hongye Wang, Yile Huang, Ming Yu, Yang Yu, Sheng Li, Huating Wang, Hao Sun, Bing Li, and Guo-Liang
-        Xu, and </span><strong>Ping Hu*</strong><span style="color: rgb(0, 0, 0);">. </span>Cell Death and Disease,
-    April 25, 1;12(6):535-549, 2021.</p>
-<p style="text-align: justify;">5. Myofiber necroptosis promotes muscle stem cell proliferation via releasing Tenascin-C
-    during regeneration. Shen'ao Zhou, Wei Zhang, Caixia Wei, Sheng Li, Yu Yang, Jie Qin, Dan Liu, Hongye Wang, Wenjun
-    Yang, Gaihong Cai, She Chen, Yingzhe Ding, Huating Wang, Xiexiang Shao, Jianhua Wang, <strong>Ping Hu*</strong>, and
-    Liming Sun*. Cell Research, 2020 Dec;30(12):1063-1077.<strong> (Featured cover story) </strong></p>
-<p style="text-align: justify;">6. Dosage effect of multiple genes accounts for multisystem disorder of myotonic
-    dystrophy type 1. Qi Yin, Hongye Wang, Na Li, Yifu Ding, Zhenfei Xie, Lifang Jin, Yan Li,1 Qiong Wang, Xinyi Liu,
-    Liuqing Xu, Yanbo Cheng, Kai Wang, Cuiqing Zhong, Qian Yu, Wei Tang, Wanjin Chen, Wenjun Yang, Fan Zhang, Chen Ding,
-    Lan Bao,1 Bin Zhou, <strong>Ping Hu*</strong> and Jinsong Li* Cell Research, 2020
-    Feb;30(2):133-145.<strong>（Featured cover story）</strong></p>
-<p style="text-align: justify;">7. Dual function of VGLL4 in muscle regeneration. Xue Feng, Zuoyun Wang, Fei Wang,
-    Tiantian Lu, Jinjin Xu, Xueyan Ma, Jinhui Li, Lingli He, Wenxiang Zhang, Sheng Li, Wenjun Yang, Shu Zhang, Gaoxiang
-    Ge, Yun Zhao, <strong>Ping Hu*</strong>, Lei Zhang*. EMBO J, 2019, 38: e101051.</p>
-<p style="text-align: justify;">8. Dkk3 dependent transcriptional regulation controls ageing induced skeletal muscle
-    atrophy. Jie Yin, Lele Yang, Yangli Xie, Yan Liu, Sheng Li, Wenjun Yang, Bo Xu, Hongbin Ji, Kun Wang, Gang Li, Lin
-    Chen &amp;<strong> Ping Hu*</strong>. Nature Communications. May. 1, 9(1):1752. 2018.</p>
-<p style="text-align: justify;">9. Combination of inflammation-related cytokines promotes long-term muscle stem cell
-    expansion. Xin Fu, Jun Xiao, Yuning Wei, Sheng Li, Yan Liu, Kun Sun, Hao Sun, Huating Wang, Zongkang Max Zhang,
-    Baoting Zhang, Chun Sheng, Hongyan Wang*, and <strong>Ping Hu*.</strong> Cell Research. 2015. Jun;25(6):655-73.
-    cover story with preview）</p>
-<p style="text-align: justify;"><span style="color: rgb(0, 0, 0);">10. Co-dependent Activators Direct Myoblast Specific
-        MyoD Transcription. </span><strong>Ping Hu</strong><span style="color: rgb(0, 0, 0);">, Kenneth G. Geles, Ji-Hye
-        Paik, Ronald A. DePinho, and Robert Tjian. &nbsp;Developmental Cell, 2008, Oct; 15(4): 534-546. </span></p>
-<p><strong> </strong></p>
-<p style="text-align: left;"><span style="color: rgb(64, 169, 255); font-size: 19px;"><strong>Lab
-            members</strong></span></p>
-<p><br></p>
-</div>
-
 <!-- 英文内容 -->
-<div id="english">
+<div id="english" style = "display:none;">
 <p style="text-align: left;"><span style="color: rgb(64, 169, 255); font-size: 22px;"><strong>Ping Hu, Ph.
             D.</strong></span></p>
 <p><span style="color: rgb(51, 51, 51);">Professor of Guangzhou Laboratory, Doctoral supervisor</span></p>
