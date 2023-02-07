@@ -18,16 +18,14 @@
     
 	window.onload = function (){
 	   console.log("onload");
-	   $("#langChange").click(function(e){
-             console.log("click");
-             var selectedOption = $("#langChange option:selected");
-             console.log("selectedOption:" + selectedOption);
-         });
 
          $("#langChange").change(function(e){
            console.log("change");
            var selectedOption = $("#langChange option:selected");
-           console.log("selectedOption:" + selectedOption);
+           console.log(selectedOption);
+           // $("#english").attr("style","display:none;");//躲藏div
+		 
+            $("#english").attr("style","display:block;");//显现div
          });
 	}
       
