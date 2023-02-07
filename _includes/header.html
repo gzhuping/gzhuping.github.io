@@ -20,12 +20,15 @@
 	   console.log("onload");
 
          $("#langChange").change(function(e){
-           console.log("change");
-           var selectedOption = $("#langChange option:selected");
-           console.log(selectedOption);
-           // $("#english").attr("style","display:none;");//躲藏div
-		 
-            $("#english").attr("style","display:block;");//显现div
+            var lang = $("#langChange option:selected").val();
+	    console.log("更换语言:" + lang);
+            if (lang === 'English'){
+	       $("#english").attr("style","display:block;");//显现div
+	       $("#chinese").attr("style","display:none;");//躲藏div
+	    }else{
+	       $("#chinese").attr("style","display:block;");//显现div
+		$("#english").attr("style","display:none;");//躲藏div
+	    }
          });
 	}
       
