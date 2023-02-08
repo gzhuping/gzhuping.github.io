@@ -58,7 +58,7 @@ permalink: /
     dystrophy type 1. Qi Yin, Hongye Wang, Na Li, Yifu Ding, Zhenfei Xie, Lifang Jin, Yan Li,1 Qiong Wang, Xinyi Liu,
     Liuqing Xu, Yanbo Cheng, Kai Wang, Cuiqing Zhong, Qian Yu, Wei Tang, Wanjin Chen, 
         , Fan Zhang, Chen Ding,
-    Lan Bao,1 Bin Zhou,<strong> Ping Hu,*</strong> and Jinsong Li* Cell Research, 2020
+    Lan Bao,1 Bin Zhou,<strong> Ping Hu</strong>,* and Jinsong Li* Cell Research, 2020
     Feb;30(2):133-145.<strong>（Featured cover story）</strong></p>
 <p style="text-align: justify;">7. Dual function of VGLL4 in muscle regeneration. Xue Feng, Zuoyun Wang, Fei Wang,
     Tiantian Lu, Jinjin Xu, Xueyan Ma, Jinhui Li, Lingli He, Wenxiang Zhang, Sheng Li, Wenjun Yang, Shu Zhang, Gaoxiang
