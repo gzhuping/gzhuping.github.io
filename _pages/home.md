@@ -69,7 +69,7 @@ permalink: /
 <p style="text-align: justify;">9. Combination of inflammation-related cytokines promotes long-term muscle stem cell
     expansion. Xin Fu, Jun Xiao, Yuning Wei, Sheng Li, Yan Liu, Kun Sun, Hao Sun, Huating Wang, Zongkang Max Zhang,
     Baoting Zhang, Chun Sheng, Hongyan Wang*, and <strong>Ping Hu*</strong>. Cell Research. 2015. Jun;25(6):655-73.
-    <strong>(Featured cover story)</strong>）</p>
+    <strong>(Featured cover story)</strong> </p>
 <p style="text-align: justify;"><span style="color: rgb(0, 0, 0);">10. Co-dependent Activators Direct Myoblast Specific
         MyoD Transcription. </span><strong>Ping Hu</strong><span style="color: rgb(0, 0, 0);">, Kenneth G. Geles, Ji-Hye
         Paik, Ronald A. DePinho, and Robert Tjian. Developmental Cell, 2008, Oct; 15(4): 534-546. </span></p>
@@ -147,7 +147,7 @@ permalink: /
 <p style="text-align: justify;">9. Combination of inflammation-related cytokines promotes long-term muscle stem cell
     expansion. Xin Fu, Jun Xiao, Yuning Wei, Sheng Li, Yan Liu, Kun Sun, Hao Sun, Huating Wang, Zongkang Max Zhang,
     Baoting Zhang, Chun Sheng, Hongyan Wang*, and <strong>Ping Hu*.</strong> Cell Research. 2015. Jun;25(6):655-73.
-    <strong>(Featured cover story)</strong>）</p>
+    <strong>(Featured cover story)</strong> </p>
 <p style="text-align: justify;"><span style="color: rgb(0, 0, 0);">10. Co-dependent Activators Direct Myoblast Specific
         MyoD Transcription. </span><strong>Ping Hu</strong><span style="color: rgb(0, 0, 0);">, Kenneth G. Geles, Ji-Hye
         Paik, Ronald A. DePinho, and Robert Tjian. &nbsp;Developmental Cell, 2008, Oct; 15(4): 534-546. </span></p>
