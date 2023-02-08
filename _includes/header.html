@@ -17,19 +17,31 @@
    <script type="text/javascript">
     
 	window.onload = function (){
-	   console.log("onload");
-
-         $("#langChange").change(function(e){
-            var lang = $("#langChange option:selected").val();
-	    console.log("更换语言:" + lang);
-            if (lang === 'English'){
-	       $("#english").attr("style","display:block;");//显现div
-	       $("#chinese").attr("style","display:none;");//躲藏div
-	    }else{
-	       $("#chinese").attr("style","display:block;");//显现div
-		$("#english").attr("style","display:none;");//躲藏div
-	    }
-         });
+	        console.log("onload start");
+		$("#langChange,#end").on("change",function(){
+		   var lang = $("#langChange option:selected").val();
+		    console.log("更换语言:" + lang);
+		    if (lang === 'English'){
+		       $("#english").attr("style","display:block;");//显现div
+		       $("#chinese").attr("style","display:none;");//躲藏div
+		    }else{
+		       $("#chinese").attr("style","display:block;");//显现div
+			$("#english").attr("style","display:none;");//躲藏div
+		    }
+		});
+		 
+//          $("#langChange").change(function(e){
+//             var lang = $("#langChange option:selected").val();
+// 	    console.log("更换语言:" + lang);
+//             if (lang === 'English'){
+// 	       $("#english").attr("style","display:block;");//显现div
+// 	       $("#chinese").attr("style","display:none;");//躲藏div
+// 	    }else{
+// 	       $("#chinese").attr("style","display:block;");//显现div
+// 		$("#english").attr("style","display:none;");//躲藏div
+// 	    }
+//          });
+		  console.log("onload finish");
 	}
       
      
