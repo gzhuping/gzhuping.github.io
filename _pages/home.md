@@ -39,7 +39,7 @@ permalink: /
     </span><strong>Ping Hu</strong><span style="color: rgb(0, 0, 0);">*</span><strong>. </strong><span
         style="color: rgb(0, 0, 0);">Cell</span><strong> </strong>Discovery, 2023, Jan. 30. </p>
 <p style="text-align: justify;">2. Chemical reprogramming of melanocytes to skeletal muscle cells. Wenjun
-    Yang<strong>*</strong>, Yaqi Wang<strong>*</strong>, Yuanyuan Du<strong>*</strong>, Jiyong Li, Sheng Li, Cheng Li,
+    Yang*, Yaqi Wang*, Yuanyuan Du*, Jiyong Li, Sheng Li, Cheng Li,
     Hongkui Deng*, and <strong>Ping Hu</strong>*. Journal of Cachexia, Sarcopenia and Muscle.<span
         style="color: rgb(91, 97, 107); background-color: rgb(255, 255, 255);"> </span>2023, Jan.</p>
 <p style="text-align: justify;"><span style="color: rgb(0, 0, 0);">3. Msi2 mediated MiR7a-1 processing repression
@@ -52,16 +52,17 @@ permalink: /
     April 25, 1;12(6):535-549, 2021.</p>
 <p style="text-align: justify;">5. Myofiber necroptosis promotes muscle stem cell proliferation via releasing Tenascin-C
     during regeneration. Shen'ao Zhou, Wei Zhang, Caixia Wei, Sheng Li, Yu Yang, Jie Qin, Dan Liu, Hongye Wang, Wenjun
-    Yang, Gaihong Cai, She Chen, Yingzhe Ding, Huating Wang, Xiexiang Shao, Jianhua Wang, <strong>Ping Hu*</strong>, and
+    Yang, Gaihong Cai, She Chen, Yingzhe Ding, Huating Wang, Xiexiang Shao, Jianhua Wang, <strong>Ping Hu</strong>*, and
     Liming Sun*. Cell Research, 2020 Dec;30(12):1063-1077. <strong>(Featured cover story)</strong> </p>
 <p style="text-align: justify;">6. Dosage effect of multiple genes accounts for multisystem disorder of myotonic
     dystrophy type 1. Qi Yin, Hongye Wang, Na Li, Yifu Ding, Zhenfei Xie, Lifang Jin, Yan Li,1 Qiong Wang, Xinyi Liu,
-    Liuqing Xu, Yanbo Cheng, Kai Wang, Cuiqing Zhong, Qian Yu, Wei Tang, Wanjin Chen, Wenjun Yang, Fan Zhang, Chen Ding,
+    Liuqing Xu, Yanbo Cheng, Kai Wang, Cuiqing Zhong, Qian Yu, Wei Tang, Wanjin Chen, 
+        , Fan Zhang, Chen Ding,
     Lan Bao,1 Bin Zhou,<strong> Ping Hu,*</strong> and Jinsong Li* Cell Research, 2020
     Feb;30(2):133-145.<strong>（Featured cover story）</strong></p>
 <p style="text-align: justify;">7. Dual function of VGLL4 in muscle regeneration. Xue Feng, Zuoyun Wang, Fei Wang,
     Tiantian Lu, Jinjin Xu, Xueyan Ma, Jinhui Li, Lingli He, Wenxiang Zhang, Sheng Li, Wenjun Yang, Shu Zhang, Gaoxiang
-    Ge, Yun Zhao, <strong>Ping Hu*</strong>, Lei Zhang*. EMBO J, 2019, 38: e101051.</p>
+    Ge, Yun Zhao, <strong>Ping Hu</strong>*, Lei Zhang*. EMBO J, 2019, 38: e101051.</p>
 <p style="text-align: justify;">8. Dkk3 dependent transcriptional regulation controls ageing induced skeletal muscle
     atrophy. Jie Yin, Lele Yang, Yangli Xie, Yan Liu, Sheng Li, Wenjun Yang, Bo Xu, Hongbin Ji, Kun Wang, Gang Li, Lin
     Chen &amp; <strong>Ping Hu*</strong>. Nature Communications. May. 1, 9(1):1752. 2018.</p>
@@ -117,7 +118,7 @@ permalink: /
     </span><strong>Ping Hu</strong><span style="color: rgb(0, 0, 0);">*</span><strong>. </strong><span
         style="color: rgb(0, 0, 0);">Cell</span><strong> </strong>Discovery, 2023, Jan. 30. </p>
 <p style="text-align: justify;">2. Chemical reprogramming of melanocytes to skeletal muscle cells. Wenjun
-    Yang<strong>*</strong>, Yaqi Wang<strong>*</strong>, Yuanyuan Du<strong>*</strong>, Jiyong Li, Sheng Li, Cheng Li,
+    Yang*, Yaqi Wang*, Yuanyuan Du*, Jiyong Li, Sheng Li, Cheng Li,
     Hongkui Deng*, and <strong>Ping Hu</strong>*. Journal of Cachexia, Sarcopenia and Muscle.<span
         style="color: rgb(91, 97, 107); background-color: rgb(255, 255, 255);"> </span>2023, Jan.</p>
 <p style="text-align: justify;"><span style="color: rgb(0, 0, 0);">3. Msi2 mediated MiR7a-1 processing repression
@@ -130,16 +131,16 @@ permalink: /
     April 25, 1;12(6):535-549, 2021.</p>
 <p style="text-align: justify;">5. Myofiber necroptosis promotes muscle stem cell proliferation via releasing Tenascin-C
     during regeneration. Shen'ao Zhou, Wei Zhang, Caixia Wei, Sheng Li, Yu Yang, Jie Qin, Dan Liu, Hongye Wang, Wenjun
-    Yang, Gaihong Cai, She Chen, Yingzhe Ding, Huating Wang, Xiexiang Shao, Jianhua Wang, <strong>Ping Hu*</strong>, and
+    Yang, Gaihong Cai, She Chen, Yingzhe Ding, Huating Wang, Xiexiang Shao, Jianhua Wang, <strong>Ping Hu</strong>*, and
     Liming Sun*. Cell Research, 2020 Dec;30(12):1063-1077.<strong> (Featured cover story) </strong></p>
 <p style="text-align: justify;">6. Dosage effect of multiple genes accounts for multisystem disorder of myotonic
     dystrophy type 1. Qi Yin, Hongye Wang, Na Li, Yifu Ding, Zhenfei Xie, Lifang Jin, Yan Li,1 Qiong Wang, Xinyi Liu,
     Liuqing Xu, Yanbo Cheng, Kai Wang, Cuiqing Zhong, Qian Yu, Wei Tang, Wanjin Chen, Wenjun Yang, Fan Zhang, Chen Ding,
-    Lan Bao,1 Bin Zhou, <strong>Ping Hu*</strong> and Jinsong Li* Cell Research, 2020
+    Lan Bao,1 Bin Zhou, <strong>Ping Hu</strong>* and Jinsong Li* Cell Research, 2020
     Feb;30(2):133-145.<strong>（Featured cover story）</strong></p>
 <p style="text-align: justify;">7. Dual function of VGLL4 in muscle regeneration. Xue Feng, Zuoyun Wang, Fei Wang,
     Tiantian Lu, Jinjin Xu, Xueyan Ma, Jinhui Li, Lingli He, Wenxiang Zhang, Sheng Li, Wenjun Yang, Shu Zhang, Gaoxiang
-    Ge, Yun Zhao, <strong>Ping Hu*</strong>, Lei Zhang*. EMBO J, 2019, 38: e101051.</p>
+    Ge, Yun Zhao, <strong>Ping Hu</strong>*, Lei Zhang*. EMBO J, 2019, 38: e101051.</p>
 <p style="text-align: justify;">8. Dkk3 dependent transcriptional regulation controls ageing induced skeletal muscle
     atrophy. Jie Yin, Lele Yang, Yangli Xie, Yan Liu, Sheng Li, Wenjun Yang, Bo Xu, Hongbin Ji, Kun Wang, Gang Li, Lin
     Chen &amp;<strong> Ping Hu*</strong>. Nature Communications. May. 1, 9(1):1752. 2018.</p>
