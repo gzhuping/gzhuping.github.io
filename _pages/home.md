@@ -157,9 +157,9 @@ permalink: /
 <p><br></p>
 </div>
 
-<p style="text-align: left;"><img src="{{ site.url }}{{ site.baseurl }}/images/homepage/h1.jpg" alt="h1.jpg" data-href="" style="width:auto; height:auto; max-width:100%; max-height:100%;"></p>
+<p style="text-align: left;"><img src="{{ site.url }}{{ site.baseurl }}/images/homepage/hulab-1.jpg" alt="hulab-1.jpg" data-href="" style="width:auto; height:auto; max-width:100%; max-height:100%;"></p>
 
-<p style="text-align: left;"><img src="{{ site.url }}{{ site.baseurl }}/images/homepage/h2.jpg" alt="h2.jpg" data-href="" style="width:auto; height:auto; max-width:100%; max-height:100%;"></p>
+<p style="text-align: left;"><img src="{{ site.url }}{{ site.baseurl }}/images/homepage/hulab-2.jpg" alt="hulab-2.jpg" data-href="" style="width:auto; height:auto; max-width:100%; max-height:100%;"></p>
 
 
 
